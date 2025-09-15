@@ -1,0 +1,40 @@
+.home{
+    
+h1 {
+  font-size: 30px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  margin-top: 30px;
+  margin-bottom: 50px;
+  margin-left: 210px;
+}
+
+.menu {
+    background-image: url(../images/bigmenu.jpg);
+  height: 1000px;
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 50px;
+  margin-top: -20px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+
+}
+.booking-button {
+  display: block;
+  width: 100px;
+  height: 40px;
+  background-color: #8b3c46;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 15px;
+  color: #f9f5f2;
+  border-radius: 30px;
+  margin: 50px auto;
+  border: none;
+}
+
+
+
+}
+

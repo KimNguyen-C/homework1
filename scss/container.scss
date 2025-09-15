@@ -1,0 +1,59 @@
+
+.container {
+  background: #fff;
+  margin: 0 auto;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  padding: 20px 30px;
+  border-radius: 12px;
+  max-width: 400px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
+h1, h2 {
+    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+.field {
+  margin-top: 15px;
+}
+
+.title {
+    font: 1em sans-serif;
+  font-weight: bold;
+  margin-bottom: 6px;
+}
+
+input, select, textarea {
+  width: 100%;
+  padding: 8px;
+  border-radius: 6px;
+  border: 1px solid #ddd;
+}
+
+textarea {
+  resize: vertical;
+  height: 60px;
+}
+
+.toppings {
+    font-size: 12px;
+    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  display: flex;
+  gap: 12px;
+  margin-top: 6px;
+}
+
+.btn {
+  margin-top: 20px;
+  text-align: center;
+  padding: 12px;
+  background: #370808;
+  color: white;
+  font-weight: bold;
+  border-radius: 8px;
+  cursor: pointer;
+}
+

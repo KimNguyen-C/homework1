@@ -1,0 +1,20 @@
+.contact {
+  display: flex;
+  width: 100%;
+  height: auto;
+  display: flex;
+  justify-content: space-evenly;
+  /* background-color: gray; */
+  margin-top: 50px;
+   margin-bottom: 70px; 
+}
+
+ .address {
+  height: 300px;
+  font-size: 16px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.address ul {
+  margin-bottom: 20px;
+}
